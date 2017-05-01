@@ -1,0 +1,56 @@
+decodeLSP.lo: decodeLSP.c /usr/include/stdc-predef.h ../include/typedef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.9/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h ../include/codecParameters.h \
+ ../include/bcg729/encoder.h ../include/bcg729/decoder.h \
+ ../include/codecParameters.h ../include/basicOperationsMacros.h \
+ ../include/fixedPointMacros.h ../include/codebooks.h ../include/utils.h \
+ ../include/g729FixedPointMath.h ../include/typedef.h \
+ ../include/basicOperationsMacros.h ../include/utils.h
+
+/usr/include/stdc-predef.h:
+
+../include/typedef.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.9/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+../include/codecParameters.h:
+
+../include/bcg729/encoder.h:
+
+../include/bcg729/decoder.h:
+
+../include/codecParameters.h:
+
+../include/basicOperationsMacros.h:
+
+../include/fixedPointMacros.h:
+
+../include/codebooks.h:
+
+../include/utils.h:
+
+../include/g729FixedPointMath.h:
+
+../include/typedef.h:
+
+../include/basicOperationsMacros.h:
+
+../include/utils.h:
